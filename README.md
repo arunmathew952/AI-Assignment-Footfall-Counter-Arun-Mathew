@@ -19,8 +19,6 @@ Configuration
 
 Project Structure
 
-Output
-
 Troubleshooting
 
 Technical Details
